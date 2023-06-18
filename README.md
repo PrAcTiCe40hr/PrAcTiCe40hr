@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm PrAcTiCe.<br>
+        I'm Thomas.<br>
         Currently learning ML/BD.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
