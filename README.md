@@ -6,6 +6,7 @@
         I'm Thomas.<br>
         Currently learning ML/BD.<br>
         Open to collaborating on interesting and innovative projects.<br>
+        Discord: py_lin<br>
     </i><br>
 </p>
 
